@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(name='nagcgi',
-      version='1.0.1',
+      version='1.0.0',
       description="Python bindings to Nagios' cmd.cgi",
       author="John Morrissey",
       author_email="jwm@horde.net",
